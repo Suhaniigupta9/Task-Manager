@@ -50,5 +50,6 @@ This project helped me practice JavaScript fundamentals, DOM manipulation, event
 
 ## Author
 
-**Suhani Gupta**
+Demo Link- https://suhaniigupta9.github.io/Task-Manager/
 
+**Suhani Gupta**
