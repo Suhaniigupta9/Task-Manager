@@ -48,8 +48,8 @@ This project helped me practice JavaScript fundamentals, DOM manipulation, event
 - Improve responsive design for mobile devices.
 - Add user authentication and cloud-based task storage.
 
-## Author
-
 Demo Link- https://suhaniigupta9.github.io/Task-Manager/
+
+## Author
 
 **Suhani Gupta**
